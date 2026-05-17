@@ -44,7 +44,7 @@ Business overview page focused on:
 - Conversion Rate
 - Active Customers
 
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.png)
 
 ---
 
@@ -66,7 +66,7 @@ Focused on operational efficiency and delivery performance.
 - freight cost analysis,
 - and full-cycle delivery time.
 
-![Logistics Analysis](Images/logistics_analysis.png)
+![Logistics Analysis](images/logistics_analysis.png)
 
 ---
 
@@ -87,7 +87,7 @@ Focused on customer payment behavior and installment usage.
 - average order value analysis,
 - and payment trends across product groups.
 
-![Payments Analysis](Images/payments_analysis.png)
+![Payments Analysis](images/payments_analysis.png)
 
 ---
 
@@ -108,7 +108,7 @@ Focused on customer satisfaction and review behavior.
 - regional review analysis,
 - and delivery delay impact on ratings.
 
-![Customer Feedback Analysis](Images/customer_feedback_analysis.png)
+![Customer Feedback Analysis](images/customer_feedback_analysis.png)
 
 ---
 
@@ -129,7 +129,7 @@ Detailed state-level drillthrough page for regional performance analysis.
 - payment distribution,
 - and customer behavior by state.
 
-![State Drillthrough](Images/state_drillthrough.png)
+![State Drillthrough](images/state_drillthrough.png)
 
 ---
 
@@ -240,7 +240,7 @@ The dashboard uses a relational data model with:
 - hierarchies,
 - and optimized relationships.
 
-![Data Model](Images/data_model.png)
+![Data Model](images/data_model.png)
 
 ---
 
@@ -255,7 +255,7 @@ Main transformations included:
 - data cleaning,
 - and relationship preparation.
 
-![Power Query](Images/power_query_orders.png)
+![Power Query](images/power_query_orders.png)
 
 ---
 
