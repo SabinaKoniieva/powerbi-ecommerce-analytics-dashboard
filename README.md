@@ -263,6 +263,7 @@ Main transformations included:
 
 Dataset source:
 Olist Brazilian E-Commerce Dataset
+> Note: Source CSV files are not included in this repository due to GitHub browser upload limitations.
 
 Main tables used:
 - olist_customers_dataset.csv
@@ -307,20 +308,13 @@ Main tables used:
 ```text
 powerbi-ecommerce-analytics-dashboard/
 │
-├── Dashboard/
+├── dashboard/
 │   └── ecommerce_dashboard.pbix
 │
-├── Data/
-│   ├── olist_customers_dataset.csv
-│   ├── olist_order_items_dataset.csv
-│   ├── olist_order_payments_dataset.csv
-│   ├── olist_order_reviews_dataset.csv
-│   ├── olist_orders_dataset.csv
-│   ├── olist_products_dataset.csv
-│   ├── olist_sellers_dataset.csv
-│   └── product_category_name_translation.csv
+├── data/
+│   └── Dataset files are not included due to GitHub upload limitations.
 │
-├── Images/
+├── images/
 │   ├── dashboard_overview.png
 │   ├── logistics_analysis.png
 │   ├── payments_analysis.png
